@@ -47,7 +47,7 @@ style='mso-list:Ignore'>1.)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbs
 </span></span></span><![endif]><span style='mso-spacerun:yes'> </span>Include the
 hyperlink to the project</p>
 
-<p class=MsoListParagraphCxSpMiddle><b>Hyperlink:<span
+<p class=MsoListParagraphCxSpMiddle><b>Hyperlink: https://github.com/GitJubJub/Metaliteracy/ <span
 style='mso-spacerun:yes'>  </span><o:p></o:p></b></p>
 
 <p class=MsoListParagraphCxSpLast style='text-indent:-.25in;mso-list:l5 level1 lfo2'><![if !supportLists]><span
